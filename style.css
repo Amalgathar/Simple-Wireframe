@@ -4,6 +4,11 @@ body {
     margin:auto;
 }
 
+.fontSizeFamily {
+    font-family: 'Arial';
+    font-size: 18px;
+}
+
 .firstHeader {
     padding: 40px;
     margin: auto;
@@ -43,8 +48,6 @@ aside {
     width: 370px;
     height: 210px;
     padding: 40px;
-    margin: auto;
-    margin-bottom: 8px;
     margin-left: 10px;
     text-align: center;
     background-color: #ebebeb;
