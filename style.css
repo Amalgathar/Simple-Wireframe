@@ -2,9 +2,6 @@ body {
     background-color: #777;
     width: 960px;
     margin:auto;
-}
-
-.fontSizeFamily {
     font-family: 'Arial';
     font-size: 18px;
 }
@@ -46,7 +43,7 @@ article {
 aside {
     float: left;
     width: 370px;
-    height: 210px;
+    height: 227px;
     padding: 40px;
     margin-left: 10px;
     text-align: center;
